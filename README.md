@@ -1,5 +1,5 @@
 # 생성형 AI 기반 상품 기획 플랫폼
-
+![Untitled](https://github.com/JuHyeokMoon/Generative_image_and_text/assets/67719050/2727a02a-588c-4d25-a1a4-91a427d3f187)
 <프로그램 사용 화면>
 
 # 프로세스 요약
