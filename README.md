@@ -1,5 +1,7 @@
 # Generative_image_and_text
----
+![<프로그램 사용 화면>](https://prod-files-secure.s3.us-west-2.amazonaws.com/ff8be1db-8232-4d43-9ca7-bd3397260b60/7ca1181a-843a-4f82-aec9-9a0be2f8913a/Untitled.png)
+
+<프로그램 사용 화면>
 # 생성형 AI 기반 상품 기획 플랫폼
 
 # 프로세스 요약
