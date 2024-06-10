@@ -1,6 +1,5 @@
 # 생성형 AI 기반 상품 기획 플랫폼
 * 상품 개발 시 AI 기술이 보조 역할을 할수 있도록, 상품 이미지와 상품 기획서를 제공하는 플랫폼 개발  
-![Untitled](https://github.com/JuHyeokMoon/Generative_image_and_text/assets/67719050/2727a02a-588c-4d25-a1a4-91a427d3f187)
   
 # 프로세스 요약
 1. 사용자 입력(제품 키워드, 설명)
